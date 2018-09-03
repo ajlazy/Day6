@@ -1,12 +1,12 @@
-package com.capgemini.com.day6.test;
+package com.capgemini.day6.q4;
 
 import static org.junit.jupiter.api.Assertions.*;
+
 import java.util.TreeSet;
+
 import org.junit.jupiter.api.Test;
 
-import com.capgemini.day6.q3.Names;
-
-class TreeSetTest {
+class TestNames {
 
 	@Test
 	void test() {
@@ -25,3 +25,12 @@ class TreeSetTest {
 	}
 
 }
+
+
+
+
+
+
+
+
+	

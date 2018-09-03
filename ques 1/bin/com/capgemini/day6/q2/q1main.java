@@ -1,4 +1,4 @@
-package com.capgemini.com.Day6;
+package com.capgemini.day6.q2;
 
 import java.util.ArrayList;
 
@@ -17,7 +17,6 @@ public class q1main {
 		Television t1=new Television("Paansonic","LCD",true,50000);
 		Television t2=new Television("Samsung","LED",true,70000);
 		Television t3=new Television("Sansui","Plasma",false,500000);
-		
 		Laptop l1=new Laptop("Dell","ddd4","2010","Windows");
 		Laptop l2=new Laptop("Compaq","d5d4","2030","Windows");
 		Laptop l3=new Laptop("Dell","dddd4","2011","ios");
@@ -27,8 +26,7 @@ public class q1main {
         School s3=new School("VIaS","Daelhi","Dwaaarka",52);
         
         ArrayList<Car> arrli = new ArrayList<Car>(3);
-        for (int i=1; i<=n; i++)
-            arrli.add(i);
+      
 
 		
 		
